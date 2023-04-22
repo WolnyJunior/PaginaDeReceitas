@@ -6,6 +6,8 @@ Trabalho realizado durante uma aula do curso de dev web full stack do <a href="h
 onde teríamos que fazer um tipo de clone do site de receitas TUDO GOSTOSO, porém, resolvi fazer algo mais direcionado ao site da <a href="https://delicious-xi.vercel.app/">Delicious</a>.
 Que é um projeto de site que estou desenvolvendo e aprimorando durante os estudos.
 
+Foi utilizado um cursor diferente para cada etapa do processo da receita, algo para deixar um pouco atraente para o usuário.
+
 ## Botão Comprar
 Não está funcionando, mas a idéia é conectar a uma API, para poder trazer uma lista de mercados, onde poderiam ser feitas as compras dos ingredientes.
 

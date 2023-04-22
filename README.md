@@ -9,4 +9,5 @@ Que é um projeto de site que estou desenvolvendo e aprimorando durante os estud
 ##
 
 Confira <a href="https://pagina-de-receitas-two.vercel.app/">aqui</a> como está ficando o site de Receitas da Delicious
+##
 OBS: Não existe receita real, pelo menos por enquanto, quem sabe vira um projeto de verdade ne?!
